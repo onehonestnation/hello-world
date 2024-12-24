@@ -9,6 +9,7 @@ Languages: Python, JavaScript, TypeScript, Ruby, Java
 Frameworks: Node.js, React, Django
 Cloud: AWS, Azure, Google Cloud
 Databases: PostgreSQL, MySQL, MongoDB
+
 💡 Currently Focused On:
 
 Building high-quality, maintainable software
