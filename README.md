@@ -4,7 +4,7 @@ This repository is for practicing the GitHub Flow
 Hi, I'm Devin Wheeler! 👋
 
 
-I'm a software engineer with a background in broadcast engineering, now diving deep into the world of coding, entrepreneurship, and problem-solving. My passion lies in building scalable solutions, contributing to open-source projects, and learning new technologies. Whether it's creating efficient backend systems or improving user experiences, I aim to make an impact through code.
+I'm a software engineer (just getting started) with a background in broadcast engineering, now diving deep into the world of coding, entrepreneurship, and problem-solving. My passion lies in building scalable solutions, contributing to open-source projects, and learning new technologies. Whether it's creating efficient backend systems or improving user experiences, I aim to make an impact through code.
 
 🔧 Technologies & Tools I Use:
 
